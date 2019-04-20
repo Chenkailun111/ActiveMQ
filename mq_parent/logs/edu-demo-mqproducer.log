@@ -1,0 +1,8 @@
+[INFO ][20181204 09:26:27,250][AbstractApplicationContext:583] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Tue Dec 04 09:26:27 CST 2018]; root of context hierarchy
+[INFO ][20181204 09:26:27,999][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [applicationContext-activemq.xml]
+[INFO ][20181204 09:26:31,434][DefaultLifecycleProcessor$LifecycleGroup:343] Starting beans in phase 2147483647
+[INFO ][20181204 09:26:32,082][SingleConnectionFactory:311] Established shared JMS Connection: PooledConnection { ConnectionPool[ActiveMQConnection {id=ID:qianfeng-PC-50520-1543886791907-1:1,clientId=null,started=false}] }
+[INFO ][20181204 09:26:32,360][DefaultLifecycleProcessor$LifecycleGroup:343] Starting beans in phase 2147483647
+[INFO ][20181204 09:28:53,966][AbstractApplicationContext:583] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Tue Dec 04 09:28:53 CST 2018]; root of context hierarchy
+[INFO ][20181204 09:28:54,286][XmlBeanDefinitionReader:317] Loading XML bean definitions from class path resource [applicationContext-activemq.xml]
+[INFO ][20181204 09:28:57,289][SingleConnectionFactory:311] Established shared JMS Connection: PooledConnection { ConnectionPool[ActiveMQConnection {id=ID:qianfeng-PC-50591-1543886937001-1:1,clientId=null,started=false}] }
