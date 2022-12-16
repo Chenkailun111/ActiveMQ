@@ -18,7 +18,7 @@
         pom：聚合工程，父工程
     -->
     <properties>
-        <springframework.version>4.3.11.RELEASE</springframework.version>
+        <springframework.version>5.2.20.RELEASE</springframework.version>
         <activemq.version>5.11.3</activemq.version>
     </properties>
     <dependencies>
